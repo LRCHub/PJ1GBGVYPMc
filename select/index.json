@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Ditto",
+  "base_artist": "redraw",
+  "createdAt": "2026-03-30T09:50:30.601589Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ditto",
+      "artist": "Cassie",
+      "has_synced": true,
+      "path": "select/01_Ditto_Cassie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ditto",
+      "artist": "Miracle Of Sound",
+      "has_synced": false,
+      "path": "select/02_Ditto_Miracle_Of_Sound.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ditto",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/03_Ditto_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ditto",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/04_Ditto_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DITTO",
+      "artist": "Aries",
+      "has_synced": true,
+      "path": "select/05_DITTO_Aries.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Rose by Any Other Name (feat. Beth Ditto)",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/06_A_Rose_by_Any_Other_Name_(feat._Beth_Ditto)_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ditto",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/07_Ditto_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Running Low (Feat. Beth Ditto)",
+      "artist": "Netsky",
+      "has_synced": true,
+      "path": "select/08_Running_Low_(Feat._Beth_Ditto)_Netsky.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ditto",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/09_Ditto_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ditto",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/10_Ditto_NewJeans.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ditto",
+      "artist": "Cassie",
+      "has_synced": false,
+      "path": "select/11_Ditto_Cassie.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ditto",
+      "artist": "Soulja Boy",
+      "has_synced": false,
+      "path": "select/12_Ditto_Soulja_Boy.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ditto",
+      "artist": "Soulja Boy Tell'em",
+      "has_synced": false,
+      "path": "select/13_Ditto_Soulja_Boy_Tell'em.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ditto (250 Remix)",
+      "artist": "NewJeans",
+      "has_synced": false,
+      "path": "select/14_Ditto_(250_Remix)_NewJeans.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ditto",
+      "artist": "redraw",
+      "has_synced": false,
+      "path": "select/pl_01_Ditto_redraw.txt"
+    }
+  ]
+}
